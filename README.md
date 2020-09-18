@@ -1,4 +1,4 @@
-# Playground
+# Playground: Xingyu Liu
 
 A place to play with `git`.
 
